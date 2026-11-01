@@ -16,7 +16,7 @@ namespace EightPuzzleAI.Search
         /// <param name="heuristic"></param>
         /// <param name="searchResult"></param>
         /// <returns></returns>
-        public static Node Search(ref Problem problem, InformedSearchTypes algorithm, Heuristic heuristic, out SearchResult searchResult)                   
+        public static Node Search(ref Problem problem, Base.InformedSearchTypes algorithm,Heuristic heuristic, out SearchResult searchResult)                   
         {
             SimplePriorityQueue<Node> frontier = new SimplePriorityQueue<Node>();
             frontier.Enqueue(EvaluationFunction(problem.InitialState, ref problem, algorithm, heuristic, out uint fscore), fscore);
@@ -57,8 +57,10 @@ namespace EightPuzzleAI.Search
         /// <param name="heuristic"></param>
         /// <param name="fscore"></param>
         /// <returns></returns>
-        private static Node EvaluationFunction(Node node, ref Problem problem, InformedSearchTypes algorithm, Heuristic heuristic, out uint fscore)                                      
+        private static Node EvaluationFunction(Node node, ref Problem problem, Base.InformedSearchTypes algorithm, Heuristic heuristic, out uint fscore)                                      
         {
+            var newNode = new Node((byte[])node.Sequence.Clone(), node.Parent_Node, node.Direction, (byte)node.Cost);
+
             fscore = 0;
             switch(heuristic)
             {
@@ -70,10 +72,11 @@ namespace EightPuzzleAI.Search
                     break;
             }             
             //if search is A* then fscore <- fscore + g(n) (f=h+g)
-            if (algorithm == InformedSearchTypes.AStar)
+            if (algorithm == Base.InformedSearchTypes.AStar)
                 fscore += node.Path_Cost;
 
-            return new Node((byte[])node.Sequence.Clone(), node.Parent_Node, node.Direction, node.Cost, fscore);
+            newNode.FScore = fscore;
+            return newNode;
         }
 
         /// <summary>

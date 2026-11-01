@@ -62,14 +62,13 @@ namespace EightPuzzleAI.Model
         /// <param name="parent">Parent Node</param>
         /// <param name="dir">Applied Direction to node (Direction wich leads to this node)</param>
         /// <param name="cost">Cost of Node</param>
-        public Node(byte[] sequence, Node parent = null, Direction? dir = null, ushort cost = 1, uint fscore = 0)
+        public Node(byte[] sequence, Node parent = null, Direction? dir = null, byte cost = 1)
         {
             Sequence = sequence;
             sequence = null; //Memory*
             Parent_Node = parent;
             Direction = dir;
             Cost = cost;
-            FScore = fscore;
 
             byte dimension = (byte)(Math.Sqrt(Sequence.Length));
 
