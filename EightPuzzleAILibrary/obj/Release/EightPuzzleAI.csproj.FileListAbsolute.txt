@@ -1,0 +1,6 @@
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\bin\Release\EightPuzzleAI.dll
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\bin\Release\EightPuzzleAI.pdb
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\obj\Release\EightPuzzleAI.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\obj\Release\EightPuzzleAI.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\obj\Release\EightPuzzleAI.dll
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\8PuzzleAI\obj\Release\EightPuzzleAI.pdb

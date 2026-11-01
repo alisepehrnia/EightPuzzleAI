@@ -1,0 +1,13 @@
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\bin\Release\EightPuzzleAIApp.exe.config
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\bin\Release\EightPuzzleAIApp.exe
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\bin\Release\EightPuzzleAIApp.pdb
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\bin\Release\EightPuzzleAI.dll
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\bin\Release\EightPuzzleAI.pdb
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.Form1.resources
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.Properties.Resources.resources
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.csproj.CopyComplete
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.exe
+C:\Users\Ali\Desktop\EightPuzzleSolver-master\EightPuzzleAIApp\obj\Release\EightPuzzleAIApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\bin\Debug\EightPuzzleAI.dll
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\bin\Debug\EightPuzzleAI.pdb
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\bin\Debug\PriorityQueue.dll
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\bin\Debug\PriorityQueue.pdb
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\bin\Debug\PriorityQueue.xml
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\obj\Debug\EightPuzzleAILibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\obj\Debug\EightPuzzleAILibrary.csproj.CopyComplete
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\obj\Debug\EightPuzzleAI.dll
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\obj\Debug\EightPuzzleAI.pdb
+C:\Users\Ali\source\repos\EightPuzzleAI\EightPuzzleAILibrary\obj\Debug\EightPuzzleAILibrary.csprojAssemblyReference.cache
