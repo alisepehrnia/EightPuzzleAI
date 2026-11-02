@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/language-C%23-purple.svg)](#)
-[![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet.svg)](#)
+[![.NET](https://img.shields.io/badge/.NET-4.7.2-blueviolet.svg)](#)
 
 ![](https://raw.githubusercontent.com/alisepehrnia/EightPuzzleAI/refs/heads/main/app.jpg)
 
